@@ -26,3 +26,10 @@ https://docs.microsoft.com/en-us/graph/api/user-list-messages?view=graph-rest-1.
      ex : autoauth.query('v1.0','users')
 
   c) Method users fetch's all the AD users and method userMahesh provides the details about the user Mahesh 
+
+Usefull Links :
+https://towardsdatascience.com/querying-microsoft-graph-api-with-python-269118e8180c
+https://oofhours.com/2020/09/05/using-microsoft-graph-from-python/
+https://docs.microsoft.com/en-us/graph/api/user-list-messages?view=graph-rest-1.0&tabs=http
+https://windowstechpro.com/insufficient-privileges-to-complete-the-operation-using-azure-application/
+https://stackoverflow.com/questions/43301218/authenticating-with-azure-active-directory-on-powershell
